@@ -1,4 +1,4 @@
-# RubikaInterviewExam
+# Rubika interview exam
 
 My coding exam for Rubika interview
 
